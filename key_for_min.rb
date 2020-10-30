@@ -5,7 +5,7 @@ def key_for_min_value(name_hash)
   min_value = ""
   name_hash.each do |item, value|
     if suite == :suite_a && name.start_with?("A")
-    min_value == 
+    min_value = item
   end
 
 end
