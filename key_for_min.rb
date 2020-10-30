@@ -7,5 +7,7 @@ def key_for_min_value(name_hash)
     if value 
     min_value_item = item
   end
+  puts min_value_item
+end
 
 end
